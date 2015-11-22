@@ -6,4 +6,5 @@ See [here](https://www.coursera.org/specializations/jhudatascience?utm_medium=co
 * [Hello World](./HelloWorld.md)
 
 ## R Programming
-* [Assignment 2](./ProgrammingAssignment2)
+* [Assignment 2](https://github.com/billyeskel/ProgrammingAssignment2)
+  * Forked from Data Science Professor rdpeng [here](https://github.com/rdpeng/ProgrammingAssignment2)
